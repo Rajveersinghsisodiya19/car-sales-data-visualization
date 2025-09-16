@@ -12,52 +12,52 @@ The line chart shows trends in car sales over time. It is especially useful for 
 
 The bar chart visualizes the comparison of categorical data, such as sales per car brand or model.
 
-![Bar Chart](Screenshot 2025-09-16 at 4.27.25ΓÇ»PM.png)
+![Bar Chart](https://github.com/Rajveersinghsisodiya19/car-sales-data-visualization/blob/0eafa23f72d3403b92bb2874da050ddb463589cc/Screenshot%202025-09-16%20at%204.27.25%E2%80%AFPM.png)
 
 ## Scatter Plot:
 
 The scatter plot shows the relationship between two numerical variables, such as price vs sales or engine size vs fuel efficiency.
 
-![Horizontal Bar Chart](Screenshot 2025-09-16 at 4.27.40ΓÇ»PM.png)
+![Horizontal Bar Chart](https://github.com/Rajveersinghsisodiya19/car-sales-data-visualization/blob/0eafa23f72d3403b92bb2874da050ddb463589cc/Screenshot%202025-09-16%20at%204.27.40%E2%80%AFPM.png)
 
 ## Histogram Chart:
 
 The histogram represents the distribution of a numerical variable, such as car prices or engine sizes.
 
-![Histogram Chart](Screenshot 2025-09-16 at 4.27.56ΓÇ»PM.png)
+![Histogram Chart](https://github.com/Rajveersinghsisodiya19/car-sales-data-visualization/blob/0eafa23f72d3403b92bb2874da050ddb463589cc/Screenshot%202025-09-16%20at%204.27.56%E2%80%AFPM.png)
 
 ## Box Plot:
 
 The box plot shows the distribution of data and identifies outliers, median, and quartiles for numerical variables.
 
-![Box Plot](Screenshot 2025-09-16 at 4.28.12ΓÇ»PM.png)
+![Box Plot](https://github.com/Rajveersinghsisodiya19/car-sales-data-visualization/blob/0eafa23f72d3403b92bb2874da050ddb463589cc/Screenshot%202025-09-16%20at%204.28.12%E2%80%AFPM.png)
 
 ## Heatmap:
 
 The heatmap visualizes correlations between numerical variables in the dataset using color gradients.
 
-![Heatmap](Screenshot 2025-09-16 at 4.28.29ΓÇ»PM.png)
+![Heatmap](https://github.com/Rajveersinghsisodiya19/car-sales-data-visualization/blob/0eafa23f72d3403b92bb2874da050ddb463589cc/Screenshot%202025-09-16%20at%204.28.29%E2%80%AFPM.png)
 
 ## Violinplot:
 
 The violin plot combines a box plot and a kernel density plot to show the distribution and probability density of numerical data.
 
-![Violinplot](Screenshot 2025-09-16 at 4.28.41ΓÇ»PM.png)
+![Violinplot](https://github.com/Rajveersinghsisodiya19/car-sales-data-visualization/blob/0eafa23f72d3403b92bb2874da050ddb463589cc/Screenshot%202025-09-16%20at%204.28.41%E2%80%AFPM.png)
 
 ## Pairplot:
 
 The pairplot visualizes relationships between multiple numerical variables simultaneously in a grid of scatterplots.
 
-![Pairplot](Screenshot 2025-09-16 at 4.29.08ΓÇ»PM.png)
+![Pairplot](https://github.com/Rajveersinghsisodiya19/car-sales-data-visualization/blob/0eafa23f72d3403b92bb2874da050ddb463589cc/Screenshot%202025-09-16%20at%204.29.08%E2%80%AFPM.png)
 
 ## Countplot:
 
 The countplot shows the frequency of different categories in a dataset, such as the number of cars sold by brand or fuel type.
 
-![Countplot](Screenshot 2025-09-16 at 4.29.22ΓÇ»PM.png)
+![Countplot](https://github.com/Rajveersinghsisodiya19/car-sales-data-visualization/blob/0eafa23f72d3403b92bb2874da050ddb463589cc/Screenshot%202025-09-16%20at%204.29.22%E2%80%AFPM.png)
 
 ## Regplot:
 
 The regplot is a scatter plot with a regression line, showing the relationship and trend between two numerical variables.
 
-![Regplot](Screenshot 2025-09-16 at 4.29.43ΓÇ»PM.png)
+![Regplot](https://github.com/Rajveersinghsisodiya19/car-sales-data-visualization/blob/0eafa23f72d3403b92bb2874da050ddb463589cc/Screenshot%202025-09-16%20at%204.29.43%E2%80%AFPM.png)
