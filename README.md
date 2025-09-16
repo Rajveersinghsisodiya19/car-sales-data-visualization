@@ -1,45 +1,63 @@
 # Car Sales Data Visualization
 
-This project visualizes various aspects of car sales data using Python (Pandas, Matplotlib, and Seaborn).
+This project provides an in-depth visualization of car sales data using Python libraries such as Pandas, Matplotlib, and Seaborn. The visualizations help in understanding trends, patterns, and relationships within the dataset, which can be useful for data analysis, reporting, and decision-making in the automobile industry.
 
-Below are the 10 visualizations included in this folder:
+## Line Chart:
 
-## Total Car Sales Over the Years (Line Chart)
+The line chart shows trends in car sales over time. It is especially useful for identifying patterns, seasonal trends, or growth/decline in sales.
 
-![Total Car Sales Over the Years (Line Chart)](Screenshot 2025-09-16 at 4.26.58 PM.png)
+![Line Chart](Screenshot 2025-09-16 at 4.26.58 PM.png)
 
-## Car Sales by Manufacturer (Bar Chart)
+## Bar Chart:
 
-![Car Sales by Manufacturer (Bar Chart)](Screenshot 2025-09-16 at 4.27.25ΓÇ»PM.png)
+The bar chart visualizes the comparison of categorical data, such as sales per car brand or model.
 
-## Top 10 Car Models by Sales (Horizontal Bar Chart)
+![Bar Chart](Screenshot 2025-09-16 at 4.27.25ΓÇ»PM.png)
 
-![Top 10 Car Models by Sales (Horizontal Bar Chart)](Screenshot 2025-09-16 at 4.27.40ΓÇ»PM.png)
+## Scatter Plot:
 
-## Sales Distribution by Fuel Type (Pie Chart)
+The scatter plot shows the relationship between two numerical variables, such as price vs sales or engine size vs fuel efficiency.
 
-![Sales Distribution by Fuel Type (Pie Chart)](Screenshot 2025-09-16 at 4.27.56ΓÇ»PM.png)
+![Horizontal Bar Chart](Screenshot 2025-09-16 at 4.27.40ΓÇ»PM.png)
 
-## Car Sales by Transmission Type (Donut Chart)
+## Histogram Chart:
 
-![Car Sales by Transmission Type (Donut Chart)](Screenshot 2025-09-16 at 4.28.12ΓÇ»PM.png)
+The histogram represents the distribution of a numerical variable, such as car prices or engine sizes.
 
-## Monthly Sales Trend (Line Chart)
+![Histogram Chart](Screenshot 2025-09-16 at 4.27.56ΓÇ»PM.png)
 
-![Monthly Sales Trend (Line Chart)](Screenshot 2025-09-16 at 4.28.29ΓÇ»PM.png)
+## Box Plot:
 
-## Car Sales by Body Style (Bar Chart)
+The box plot shows the distribution of data and identifies outliers, median, and quartiles for numerical variables.
 
-![Car Sales by Body Style (Bar Chart)](Screenshot 2025-09-16 at 4.28.41ΓÇ»PM.png)
+![Box Plot](Screenshot 2025-09-16 at 4.28.12ΓÇ»PM.png)
 
-## Average Price by Manufacturer (Bar Chart)
+## Heatmap:
 
-![Average Price by Manufacturer (Bar Chart)](Screenshot 2025-09-16 at 4.29.08ΓÇ»PM.png)
+The heatmap visualizes correlations between numerical variables in the dataset using color gradients.
 
-## Sales Count by Engine Size Category (Histogram)
+![Heatmap](Screenshot 2025-09-16 at 4.28.29ΓÇ»PM.png)
 
-![Sales Count by Engine Size Category (Histogram)](Screenshot 2025-09-16 at 4.29.22ΓÇ»PM.png)
+## Violinplot:
 
-## Correlation Between Engine Size and Price (Scatter Plot)
+The violin plot combines a box plot and a kernel density plot to show the distribution and probability density of numerical data.
 
-![Correlation Between Engine Size and Price (Scatter Plot)](Screenshot 2025-09-16 at 4.29.43ΓÇ»PM.png)
+![Violinplot](Screenshot 2025-09-16 at 4.28.41ΓÇ»PM.png)
+
+## Pairplot:
+
+The pairplot visualizes relationships between multiple numerical variables simultaneously in a grid of scatterplots.
+
+![Pairplot](Screenshot 2025-09-16 at 4.29.08ΓÇ»PM.png)
+
+## Countplot:
+
+The countplot shows the frequency of different categories in a dataset, such as the number of cars sold by brand or fuel type.
+
+![Countplot](Screenshot 2025-09-16 at 4.29.22ΓÇ»PM.png)
+
+## Regplot:
+
+The regplot is a scatter plot with a regression line, showing the relationship and trend between two numerical variables.
+
+![Regplot](Screenshot 2025-09-16 at 4.29.43ΓÇ»PM.png)
