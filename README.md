@@ -6,7 +6,7 @@ This project provides an in-depth visualization of car sales data using Python l
 
 The line chart shows trends in car sales over time. It is especially useful for identifying patterns, seasonal trends, or growth/decline in sales.
 
-![Line Chart](Screenshot 2025-09-16 at 4.26.58 PM.png)
+![Line Chart](https://github.com/Rajveersinghsisodiya19/car-sales-data-visualization/blob/1836706e15db1178c165a76cf33a5137c7cbb91e/Screenshot%202025-09-16%20at%204.26.58%E2%80%AFPM.png)
 
 ## Bar Chart:
 
